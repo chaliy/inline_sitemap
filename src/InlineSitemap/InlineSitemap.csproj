@@ -46,6 +46,7 @@
       <Link>Properties\SharedAssemblyInfo.cs</Link>
     </Compile>
     <Compile Include="Advanced\Namespaces.cs" />
+    <Compile Include="Advanced\SearchEnginePing.cs" />
     <Compile Include="Advanced\SitemapRouteHandler.cs" />
     <Compile Include="Advanced\SitemapWriter.cs" />
     <Compile Include="Guard.cs" />
