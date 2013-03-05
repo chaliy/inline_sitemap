@@ -11,8 +11,15 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>
     <!--<tags></tags>-->
+    <dependencies>
+      <group>
+        <dependency id="InlineSitemap" />
+      </group>
+    </dependencies>
   </metadata>
+  <!--
   <files>
     <file src="bin\$configuration$\InlineSitemap.*" target="lib\net40" />
   </files>
+  -->
 </package>
