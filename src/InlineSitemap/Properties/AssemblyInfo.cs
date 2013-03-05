@@ -2,7 +2,7 @@ using System.Reflection;
 using System.Runtime.InteropServices;
 
 [assembly: AssemblyTitle("InlineSitemap")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("InlineSitemap")]
 
 [assembly: ComVisible(false)]
 
